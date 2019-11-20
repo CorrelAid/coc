@@ -36,7 +36,7 @@ We prioritize marginalized people’s safety over privileged people’s comfort.
 
 If you are asked to stop harassing behaviour you should stop immediately, even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all meetup attendees you should stop.
 
-Finally: Take care of each other. Alert a member of the CorrelAid Core Team (below) if you notice a dangerous situation, someone in distress, or a potential violation of this Code of Conduct, even if it seems inconsequential.
+Finally: Take care of each other. Alert a member of the CorrelAid Core Team (see below) if you notice a dangerous situation, someone in distress, or a potential violation of this Code of Conduct, even if it seems inconsequential.
 
 ### Requirements for talks
 
@@ -48,5 +48,7 @@ We are aware that CorrelAid should have a dedicated person / team to take care o
 Unfortunately, we have not made this a priority in the past but we are dedicated to changing this over the course of the next months.
 
 In the meantime, we are confident that the following members of the CorrelAid Core Team will do a good job at supporting you if you are being harassed, if you notice that someone else is being harassed, or if you have any other concerns:
+
+- insert list here
 
 Adapted from https://user2019.r-project.org/coc/ and https://ropensci.org/code-of-conduct/.
