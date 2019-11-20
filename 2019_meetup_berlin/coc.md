@@ -10,8 +10,7 @@ Participants engaging in harassing behavior may be sanctioned in any way organiz
 
 Attendants of the CorrelAid meetup 2019 agree to refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to:
 
-- offensive comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size,
-- race, ethnicity, religion (or lack thereof), or technology choices
+- offensive comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, social class, race, ethnicity, religion (or lack thereof), or technology choices
 - unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, or employment
 - sustained or willful disruption of discussions, talks, or other events
 - deliberate intimidation
@@ -36,6 +35,8 @@ We prioritize marginalized people’s safety over privileged people’s comfort.
 
 If you are asked to stop harassing behaviour you should stop immediately, even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all meetup attendees you should stop.
 
+Do not abuse substances in the context of this meetup. This includes alcohol. That does not mean that there won't be any alcohol (there will be!) but we expect you to drink responsibly. In particular, we expect you to be _always_ considerate and nice to the other attendants. Being under the influence of drugs and/or alcohol will not count as an excuse for harrassing behaviour.
+
 Finally: Take care of each other. Alert a member of the CorrelAid Core Team (see below) if you notice a dangerous situation, someone in distress, or a potential violation of this Code of Conduct, even if it seems inconsequential.
 
 ### Requirements for talks
@@ -47,8 +48,12 @@ Talk slides and presentations fall under the code of conduct. Talk slides should
 We are aware that CorrelAid should have a dedicated person / team independent of the CorrelAid board / core team to take care of reports of violations of this code of conduct.
 Unfortunately, we have not made this a priority in the past but we are dedicated to changing this over the course of the next months.
 
-In the meantime, we are confident that the following members of the CorrelAid Core Team will do a good job at supporting you if you are being harassed, if you notice that someone else is being harassed, or if you have any other concerns:
+In the meantime, we will compose an awareness team consisting of members of the CorrelAid Core Team. The team members in charge will wear special stickers during the event. Details will be announced at the offical welcome on Saturday morning. Please speak to one of them if you are being harassed, if you notice that someone else is being harassed, or if you have any other concerns.
 
-- Frie Preu
+If you are uncomfortable to speak to us in person, if you are not able to find someone to talk to or if you want to let us know something after the meetup has ended, you can write an email to one of the following people:
 
-Adapted from https://user2019.r-project.org/coc/ and https://ropensci.org/code-of-conduct/.
+- Frie: [frie.p@correlaid.org](mailto:frie.p@correlaid.org).
+- Alexandra: [alex]
+- Lisa:
+
+  Adapted from https://user2019.r-project.org/coc/ and https://ropensci.org/code-of-conduct/.
