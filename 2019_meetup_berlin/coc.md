@@ -8,23 +8,24 @@ We do not tolerate harassment of participants of the CorrelAid meetup in any for
 
 Participants engaging in harassing behavior may be sanctioned in any way organizers deem appropriate. Participants may be given a formally warning to stop the behaviour and expelled if they continue or immediately expelled from the meetup without refund.
 
-Attendants of the CorrelAid meetup 2019 agree to:
+Attendants of the CorrelAid meetup 2019 agree to refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to:
 
-- Be considerate in speech and actions, and actively seek to acknowledge and respect the boundaries of fellow attendees.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to:
+- offensive comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size,
+- race, ethnicity, religion (or lack thereof), or technology choices
 - unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, or employment
+- sustained or willful disruption of discussions, talks, or other events
+- deliberate intimidation
 - continued one-on-one communication after requests to cease
+- unwanted photography or recording, including logging online activity for harassment purposes
+- pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
+- inappropriate physical contact without consent or after a request to stop
+- stalking or following
+- threats of violence or incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in - self-harm
+- use of sexual or discriminatory imagery, comments, or jokes
+- unwelcome sexual attention
 - deliberate ‘outing’ of any aspect of a person’s identity without their consent except as necessary to protect vulnerable people from intentional abuse
-- Stalking
-- Deliberate intimidation
-- Unwanted photography or recording
-- Discriminatory images in public spaces
-- Sustained or willful disruption of talks or other events
-- Use of sexual or discriminatory imagery, comments, or jokes
-- Offensive verbal comments related to gender and gender expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, or technology choices.
-- Inappropriate physical contact without consent or after a request to stop, which can include grabbing as well as hugging without asking or massaging without asking
-- Unwelcome sexual attention, which can include inappropriate questions of a sexual nature, asking for sexual favours or repeatedly asking for dates or contact information
-- Alert a member of the staff if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
+- deliberate misgendering or use of ‘dead’ or rejected names
+- publication of non-harassing private communication
 
 We prioritize marginalized people’s safety over privileged people’s comfort. We will not act on complaints regarding:
 
@@ -33,7 +34,9 @@ We prioritize marginalized people’s safety over privileged people’s comfort.
 - communicating in a ‘tone’ you don’t find congenial
 - criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
-If you are asked to stop harassing behaviour you should stop immediately, even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all conference attendees you should stop.
+If you are asked to stop harassing behaviour you should stop immediately, even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all meetup attendees you should stop.
+
+Finally: Take care of each other. Alert a member of the CorrelAid Core Team (below) if you notice a dangerous situation, someone in distress, or a potential violation of this Code of Conduct, even if it seems inconsequential.
 
 ### Requirements for talks
 
@@ -41,6 +44,9 @@ Talk slides and presentations fall under the code of conduct. Talk slides should
 
 ### Need help?
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Frie Preu.
+We are aware that CorrelAid should have a dedicated person / team to take care of reports of violations of this code of conduct independent from the CorrelAid board / core team.
+Unfortunately, we have not made this a priority in the past but we are dedicated to changing this over the course of the next months.
+
+In the meantime, we are confident that the following members of the CorrelAid Core Team will do a good job at supporting you if you are being harassed, if you notice that someone else is being harassed, or if you have any other concerns:
 
 Adapted from https://user2019.r-project.org/coc/ and https://ropensci.org/code-of-conduct/.
