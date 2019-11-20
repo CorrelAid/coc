@@ -1,6 +1,6 @@
 # CorrelAid meetup 2019 edition - Code of Conduct
 
-The organizers of the CorrelAid meetup 2019 (2019-11-30 to 2019-12-01, CityLab Berlin) are dedicated to providing a harassment-free conference experience for everyone regardless of gender, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof).
+The organizers of the CorrelAid meetup 2019 (2019-11-30 to 2019-12-01, CityLab Berlin) are dedicated to providing a harassment-free meetup experience for everyone regardless of gender, gender expression, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof).
 
 All attendees, speakers, and volunteers at the CorrelAid meetup 2019 are required to agree to the following code of conduct. Organizers will enforce this code throughout and expect cooperation in ensuring a safe environment for all.
 
