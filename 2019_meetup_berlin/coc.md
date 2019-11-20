@@ -35,7 +35,7 @@ We prioritize marginalized people’s safety over privileged people’s comfort.
 
 If you are asked to stop harassing behaviour you should stop immediately, even if your behaviour was meant to be friendly or a joke, it was clearly not taken that way and for the comfort of all meetup attendees you should stop.
 
-Do not abuse substances in the context of this meetup. This includes alcohol. That does not mean that there won't be any alcohol (there will be!) but we expect you to drink responsibly. In particular, we expect you to be _always_ considerate and nice to the other attendants. Being under the influence of drugs and/or alcohol will not count as an excuse for harrassing behaviour.
+Do not abuse substances (including alcohol) in the context of this meetup. This does not mean that there won't be any alcohol (there will be beer!) but we expect you to drink responsibly. In particular, we expect you to be _always_ considerate and nice to the other attendants. Being under the influence of drugs and/or alcohol will not count as an excuse for harrassing behaviour.
 
 Finally: Take care of each other. Alert a member of the CorrelAid Core Team (see below) if you notice a dangerous situation, someone in distress, or a potential violation of this Code of Conduct, even if it seems inconsequential.
 
