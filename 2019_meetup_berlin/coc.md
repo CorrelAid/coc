@@ -52,8 +52,8 @@ In the meantime, we will compose an awareness team consisting of members of the 
 
 If you are uncomfortable to speak to us in person, if you are not able to find someone to talk to or if you want to let us know something after the meetup has ended, you can write an email to one of the following people:
 
-- Frie: [frie.p@correlaid.org](mailto:frie.p@correlaid.org).
-- Alexandra: [alex]
-- Lisa:
+- [Frie](mailto:frie.p@correlaid.org).
+- [Alexandra](mailto:alexandra.k@correlaid.org)
+- [Lisa](mailto:lisa.h@correlaid.org)
 
   Adapted from https://user2019.r-project.org/coc/ and https://ropensci.org/code-of-conduct/.
