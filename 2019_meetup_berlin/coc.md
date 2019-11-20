@@ -44,11 +44,11 @@ Talk slides and presentations fall under the code of conduct. Talk slides should
 
 ### Need help?
 
-We are aware that CorrelAid should have a dedicated person / team to take care of reports of violations of this code of conduct independent from the CorrelAid board / core team.
+We are aware that CorrelAid should have a dedicated person / team independent of the CorrelAid board / core team to take care of reports of violations of this code of conduct.
 Unfortunately, we have not made this a priority in the past but we are dedicated to changing this over the course of the next months.
 
 In the meantime, we are confident that the following members of the CorrelAid Core Team will do a good job at supporting you if you are being harassed, if you notice that someone else is being harassed, or if you have any other concerns:
 
-- insert list here
+- Frie Preu
 
 Adapted from https://user2019.r-project.org/coc/ and https://ropensci.org/code-of-conduct/.
