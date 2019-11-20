@@ -6,7 +6,7 @@ All attendees, speakers, and volunteers at the CorrelAid meetup 2019 are require
 
 We do not tolerate harassment of participants of the CorrelAid meetup in any form.
 
-Participants engaging in harassing behavior may be sanctioned in any way organizers deem appropriate. Participants may be given a formally warning to stop the behaviour and expelled if they continue or immediately expelled from the meetup without refund.
+Participants engaging in harassing behavior may be sanctioned in any way organizers deem appropriate. Participants may be given a formal warning to stop the behaviour and expelled if they continue or immediately expelled from the meetup without refund.
 
 Attendants of the CorrelAid meetup 2019 agree to refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to:
 
@@ -37,7 +37,7 @@ If you are asked to stop harassing behaviour you should stop immediately, even i
 
 Do not abuse substances (including alcohol) in the context of this meetup. This does not mean that there won't be any alcohol (there will be beer!) but we expect you to drink responsibly. In particular, we expect you to be _always_ considerate and nice to the other attendants. Being under the influence of drugs and/or alcohol will not count as an excuse for harrassing behaviour.
 
-Finally: Take care of each other. Alert a member of the CorrelAid Core Team (see below) if you notice a dangerous situation, someone in distress, or a potential violation of this Code of Conduct, even if it seems inconsequential.
+Finally: Take care of each other. Alert a member of the awareness team (see below) if you notice a dangerous situation, someone in distress, or a potential violation of this Code of Conduct, even if it seems inconsequential.
 
 ### Requirements for talks
 
