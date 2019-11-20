@@ -1,0 +1,2 @@
+# coc
+Code of conducts
